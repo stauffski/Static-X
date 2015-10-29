@@ -1,0 +1,13 @@
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\bin\Debug\Static-X.exe.config
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.csprojResolveAssemblyReference.cache
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static_X.Properties.Resources.resources
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.csproj.GenerateResource.Cache
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\bin\Debug\Static-X.exe
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\bin\Debug\Static-X.pdb
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.exe
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.pdb
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static_X.MainForm.resources
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\bin\Debug\Static-X.exe.manifest
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\bin\Debug\Static-X.application
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.exe.manifest
+c:\users\stauf\documents\visual studio 2015\Projects\Static-X\Static-X\obj\Debug\Static-X.application
